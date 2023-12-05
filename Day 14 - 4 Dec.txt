@@ -1,0 +1,29 @@
+echo "$SHELL"
+
+	this command prints what is the type of the shell. Bash is the defualt.
+
+cat /etc/shells
+
+	this command will show all other types of shells that can be used.
+
+sudo su
+
+	this command is used to switch to root user.
+
+history
+	this command will show the commands that were executed previously along with the history command where it'll be at the end of the list.
+
+	Typing: history 3
+		it'll show the last 3 lines of the list of commands executed
+
+cd
+	change directory
+
+pwd
+	print working directory. It'll print the current working directory.
+
+ifconfig
+	this command will display the interfaces settings.
+
+
+
